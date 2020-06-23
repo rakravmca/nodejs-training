@@ -1,0 +1,9 @@
+https://nodejs.org/en/download/
+
+https://nodejs.org/en/docs/guides/
+
+https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
+
+https://www.youtube.com/watch?v=PNa9OMajw9w
+
+https://www.youtube.com/watch?v=zphcsoSJMvM
